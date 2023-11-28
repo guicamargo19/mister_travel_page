@@ -72,6 +72,13 @@ $(document).ready(function() {
         
         submitHandler: function(){
             $('.mensagem-enviada').slideToggle()
+            $('#nome').val('')
+            $('#telefone').val('')
+            $('#email').val('')
+            $('#cep').val('')
+            $('#cpf').val('')
+            $('#viagemInteresse').val('')
+            $('#mensagem').val('')
         }
     })
 
