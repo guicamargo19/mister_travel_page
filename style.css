@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 html {
@@ -65,6 +65,10 @@ nav li a {
     color: #fff;
     text-decoration: none;
     cursor: pointer;
+}
+
+nav li a:hover {
+    color: lightsteelblue;
 }
 
 .menu {
@@ -212,9 +216,9 @@ form {
     font-size: 22px;
     margin-bottom: 100px;
     font-weight: bold;
-    background-color:#2b306b;
+    background-color:#0d103f;
     padding: 16px;
-    border-radius: 10px;
+    border-radius: 16px;
     color: #fff;
 }
 
@@ -225,4 +229,8 @@ footer li {
 
 footer li img{
     height: 32px;
+}
+
+footer li img:hover {
+    transform: scale(1.1);
 }
