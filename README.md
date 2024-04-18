@@ -1,6 +1,8 @@
-# TOMODA Viagens
+# Mister Travel
 
-<img src="assets/images/viagens.png">
+## Apresentação do projeto
+
+https://github.com/guicamargo19/mister_travel_page/assets/133445061/f805fc73-05cd-4aab-9e03-a1596d6a1207
 
 Projeto desenvolvido no curso de Full Stack Python da EBAC - Escola Britânica de Artes Criativas e Tecnologia.
 
@@ -9,7 +11,7 @@ com informações básicas sobre a viagem e o preço. Projeto possui plugins com
 que oferecem uma experiência agrável e moderna de navegação. Ao clicar em "Saiba mais", o campo "Destino de interesse"
 do formulário de contato é automaticamente preenchido.
 
-Formulário de contato possui máscara nos campos com base nas características dos dados no Brasil, como CEP, CPF e telefone.
+Formulário de contato possui máscara nos campos com base nas características dos dados no Brasil, como CEP e telefone.
 
 ## Instalação
 
